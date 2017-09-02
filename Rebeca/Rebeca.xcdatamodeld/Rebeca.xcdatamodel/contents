@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Bebida" representedClassName="Bebida" syncable="YES" codeGenerationType="class">
+        <attribute name="bebida" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="BurritoDia" representedClassName="BurritoDia" syncable="YES" codeGenerationType="class">
+        <attribute name="burritoDia" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Chimichanga" representedClassName="Chimichanga" syncable="YES" codeGenerationType="class">
+        <attribute name="chimichanga" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Clasico" representedClassName="Clasico" syncable="YES" codeGenerationType="class">
+        <attribute name="clasico" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Extra" representedClassName="Extra" syncable="YES" codeGenerationType="class">
+        <attribute name="extra" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PaqueteCuatro" representedClassName="PaqueteCuatro" syncable="YES" codeGenerationType="class">
+        <attribute name="paqueteCuatro" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PaqueteDos" representedClassName="PaqueteDos" syncable="YES" codeGenerationType="class">
+        <attribute name="paqueteDos" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PaqueteTres" representedClassName="PaqueteTres" syncable="YES" codeGenerationType="class">
+        <attribute name="paqueteTres" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PaqueteUno" representedClassName="PaqueteUno" syncable="YES" codeGenerationType="class">
+        <attribute name="paqueteUno" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Premium" representedClassName="Premium" syncable="YES" codeGenerationType="class">
+        <attribute name="premium" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Selecto" representedClassName="Selecto" syncable="YES" codeGenerationType="class">
+        <attribute name="selecto" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Tostada" representedClassName="Tostada" syncable="YES" codeGenerationType="class">
+        <attribute name="tostada" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Total" representedClassName="Total" syncable="YES" codeGenerationType="class">
+        <attribute name="totalDia" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Bebida" positionX="-9" positionY="45" width="128" height="60"/>
+        <element name="BurritoDia" positionX="18" positionY="72" width="128" height="60"/>
+        <element name="Chimichanga" positionX="-27" positionY="27" width="128" height="60"/>
+        <element name="Clasico" positionX="-45" positionY="9" width="128" height="60"/>
+        <element name="Extra" positionX="27" positionY="81" width="128" height="60"/>
+        <element name="PaqueteCuatro" positionX="9" positionY="63" width="128" height="60"/>
+        <element name="PaqueteDos" positionX="-9" positionY="45" width="128" height="60"/>
+        <element name="PaqueteTres" positionX="0" positionY="54" width="128" height="60"/>
+        <element name="PaqueteUno" positionX="-18" positionY="36" width="128" height="60"/>
+        <element name="Premium" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="Selecto" positionX="-63" positionY="-9" width="128" height="60"/>
+        <element name="Tostada" positionX="9" positionY="63" width="128" height="60"/>
+        <element name="Total" positionX="-9" positionY="45" width="128" height="60"/>
+    </elements>
+</model>
